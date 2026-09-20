@@ -15,7 +15,7 @@ class GoPlusService:
     """GoPlus Security API service for token analysis"""
     
     def __init__(self):
-        self.api_key = get_env_var("GOPLUS_API_KEY", "Y0ZVbTgCm8G40GbczyAD")
+        self.api_key = get_env_var("GOPLUS_API_KEY", "")
         self.base_url = "https://api.gopluslabs.io/api/v1"
         self.timeout = 30
         

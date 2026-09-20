@@ -50,7 +50,7 @@ In the Render dashboard, go to **Environment** tab and add:
 
 ```
 TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
-GOPLUS_API_KEY=Y0ZVbTgCm8G40GbczyAD
+GOPLUS_API_KEY=your_goplus_api_key_here
 ETHERSCAN_API_KEY=your_etherscan_api_key_here
 BASESCAN_API_KEY=your_basescan_api_key_here
 ```

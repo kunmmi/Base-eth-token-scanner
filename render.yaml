@@ -9,7 +9,7 @@ services:
           - key: TELEGRAM_BOT_TOKEN
             sync: false
           - key: GOPLUS_API_KEY
-            value: Y0ZVbTgCm8G40GbczyAD
+            sync: false
           - key: ETHERSCAN_API_KEY
             sync: false
           - key: BASESCAN_API_KEY
